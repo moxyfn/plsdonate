@@ -345,7 +345,7 @@ local sValues = {
 	30,
 	true,
 	15,
-	"#32CD32",
+	"#a600ff",
 	5,
 	false,
 	"",
